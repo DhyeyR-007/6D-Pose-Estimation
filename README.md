@@ -50,7 +50,7 @@ Pose CNN also includes a refinement step that further improves the accuracy of t
 
 ## Architecture:
 
-![image](https://user-images.githubusercontent.com/86003669/227664294-1faeb746-d2a5-493d-98e9-750a88853791.png) (reference: https://doi.org/10.48550/arXiv.1711.00199)
+![image](https://user-images.githubusercontent.com/86003669/227664294-1faeb746-d2a5-493d-98e9-750a88853791.png) 
 
 
 ## File Index:
